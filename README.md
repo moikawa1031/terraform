@@ -1,5 +1,7 @@
 # terraform
 
+vSphereでVMをデプロイする用。  
+
 #VMware vSphere　リポジトリ  
 https://registry.terraform.io/providers/hashicorp/vsphere/latest
 
