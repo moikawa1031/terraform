@@ -1,3 +1,6 @@
+#URL
+#https://registry.terraform.io/providers/hashicorp/vsphere/latest
+
 variable "vsphere_user" {}
 variable "vsphere_password" {}
 variable "vsphere_server" {}
